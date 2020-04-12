@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3162e4fd-18d0-41ec-bc7b-8d7999d64834" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YrRqTBHvQXSzFw9TmyDHUAniKI" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/victor/learn/kotlin/challenges/hackerrank" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/victor/learn/kotlin/challenges/hackerrank" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/victor/learn/kotlin/challenges/hackerrank" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.GenericsKt">
+    <configuration name="BirthdayChocolateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kolltin-language" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.victor.learn.kotlin.challenges.hackerrank.BirthdayChocolateKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreakingRecordsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kolltin-language" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.victor.learn.kotlin.challenges.hackerrank.BreakingRecordsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivisibleSumPairsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kolltin-language" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.victor.learn.kotlin.challenges.hackerrank.DivisibleSumPairsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kolltin-language" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.victor.learn.kotlin.learn.GenericsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequencesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kolltin-language" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.victor.learn.kotlin.learn.sequences.SequencesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.GenericsKt" />
+        <item itemvalue="Kotlin.SequencesKt" />
+        <item itemvalue="Kotlin.DivisibleSumPairsKt" />
+        <item itemvalue="Kotlin.BirthdayChocolateKt" />
+        <item itemvalue="Kotlin.BreakingRecordsKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3162e4fd-18d0-41ec-bc7b-8d7999d64834" name="Default Changelist" comment="" />
+      <created>1583698917013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583698917013</updated>
+      <workItem from="1583698920276" duration="6118000" />
+      <workItem from="1584045765117" duration="4944000" />
+      <workItem from="1584131385219" duration="8642000" />
+      <workItem from="1584203628782" duration="3857000" />
+      <workItem from="1584215504700" duration="541000" />
+      <workItem from="1584274998855" duration="4977000" />
+      <workItem from="1584310354887" duration="30000" />
+      <workItem from="1584310397953" duration="316000" />
+      <workItem from="1584395559292" duration="716000" />
+      <workItem from="1584734051592" duration="5834000" />
+      <workItem from="1585436376914" duration="106000" />
+      <workItem from="1585436502276" duration="4452000" />
+      <workItem from="1585506807641" duration="2062000" />
+      <workItem from="1585757323297" duration="5607000" />
+      <workItem from="1585996351279" duration="10261000" />
+      <workItem from="1586084133879" duration="3780000" />
+      <workItem from="1586204814675" duration="7384000" />
+      <workItem from="1586264281852" duration="3300000" />
+      <workItem from="1586416280617" duration="9520000" />
+      <workItem from="1586531790051" duration="1865000" />
+      <workItem from="1586722278111" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="225" key="#Plugins" timestamp="1584310556228">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="225" key="#Plugins/0.0.1792.1120@0.0.1792.1120" timestamp="1584310556228" />
+    <state x="647" y="219" width="500" height="681" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1584287400576">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="647" y="219" width="500" height="681" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1584287400576" />
+    <state x="706" y="260" key="#xdebugger.evaluate" timestamp="1586523506583">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="659" y="270" key="#xdebugger.evaluate/0.0.1792.1120@0.0.1792.1120" timestamp="1584786878899" />
+    <state x="706" y="260" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1586523506583" />
+    <state width="1878" height="411" key="GridCell.Tab.0.bottom" timestamp="1586558061760">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1750" height="382" key="GridCell.Tab.0.bottom/0.0.1792.1057/1792.63.1920.1057@0.0.1792.1057" timestamp="1586211928846" />
+    <state width="1876" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1584051133481" />
+    <state width="1750" height="388" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.40.1920.1080@0.0.1792.1120" timestamp="1586264263778" />
+    <state width="1878" height="382" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586001864744" />
+    <state width="1878" height="373" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.63.1920.1057@0.0.1792.1120" timestamp="1586041655808" />
+    <state width="1750" height="399" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1585813581382" />
+    <state width="1878" height="411" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586558061760" />
+    <state width="1748" height="353" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1584286955561" />
+    <state width="1878" height="411" key="GridCell.Tab.0.bottom/0.23.1792.1033/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586384121192" />
+    <state width="1878" height="373" key="GridCell.Tab.0.bottom/0.23.1792.1034/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586001335740" />
+    <state width="1878" height="382" key="GridCell.Tab.0.bottom/0.23.1792.1097/1792.40.1920.1080@1792.40.1920.1080" timestamp="1585996991690" />
+    <state width="1878" height="318" key="GridCell.Tab.0.bottom/3712.40.1920.1080/1792.40.1920.1080/0.0.1792.1120@1792.40.1920.1080" timestamp="1583743835680" />
+    <state width="1878" height="411" key="GridCell.Tab.0.center" timestamp="1586558061758">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1750" height="382" key="GridCell.Tab.0.center/0.0.1792.1057/1792.63.1920.1057@0.0.1792.1057" timestamp="1586211928845" />
+    <state width="1876" height="318" key="GridCell.Tab.0.center/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1584051133479" />
+    <state width="1750" height="388" key="GridCell.Tab.0.center/0.0.1792.1120/1792.40.1920.1080@0.0.1792.1120" timestamp="1586264263777" />
+    <state width="1878" height="382" key="GridCell.Tab.0.center/0.0.1792.1120/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586001864742" />
+    <state width="1878" height="373" key="GridCell.Tab.0.center/0.0.1792.1120/1792.63.1920.1057@0.0.1792.1120" timestamp="1586041655807" />
+    <state width="1750" height="399" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1585813581381" />
+    <state width="1878" height="411" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586558061758" />
+    <state width="1748" height="353" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1584286955560" />
+    <state width="1878" height="411" key="GridCell.Tab.0.center/0.23.1792.1033/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586384121191" />
+    <state width="1878" height="373" key="GridCell.Tab.0.center/0.23.1792.1034/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586001335739" />
+    <state width="1878" height="382" key="GridCell.Tab.0.center/0.23.1792.1097/1792.40.1920.1080@1792.40.1920.1080" timestamp="1585996991687" />
+    <state width="1878" height="318" key="GridCell.Tab.0.center/3712.40.1920.1080/1792.40.1920.1080/0.0.1792.1120@1792.40.1920.1080" timestamp="1583743835677" />
+    <state width="1878" height="411" key="GridCell.Tab.0.left" timestamp="1586558061758">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1750" height="382" key="GridCell.Tab.0.left/0.0.1792.1057/1792.63.1920.1057@0.0.1792.1057" timestamp="1586211928844" />
+    <state width="1876" height="318" key="GridCell.Tab.0.left/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1584051133478" />
+    <state width="1750" height="388" key="GridCell.Tab.0.left/0.0.1792.1120/1792.40.1920.1080@0.0.1792.1120" timestamp="1586264263776" />
+    <state width="1878" height="382" key="GridCell.Tab.0.left/0.0.1792.1120/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586001864740" />
+    <state width="1878" height="373" key="GridCell.Tab.0.left/0.0.1792.1120/1792.63.1920.1057@0.0.1792.1120" timestamp="1586041655806" />
+    <state width="1750" height="399" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1585813581381" />
+    <state width="1878" height="411" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586558061758" />
+    <state width="1748" height="353" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1584286955559" />
+    <state width="1878" height="411" key="GridCell.Tab.0.left/0.23.1792.1033/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586384121190" />
+    <state width="1878" height="373" key="GridCell.Tab.0.left/0.23.1792.1034/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586001335738" />
+    <state width="1878" height="382" key="GridCell.Tab.0.left/0.23.1792.1097/1792.40.1920.1080@1792.40.1920.1080" timestamp="1585996991686" />
+    <state width="1878" height="318" key="GridCell.Tab.0.left/3712.40.1920.1080/1792.40.1920.1080/0.0.1792.1120@1792.40.1920.1080" timestamp="1583743835675" />
+    <state width="1878" height="411" key="GridCell.Tab.0.right" timestamp="1586558061759">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1750" height="382" key="GridCell.Tab.0.right/0.0.1792.1057/1792.63.1920.1057@0.0.1792.1057" timestamp="1586211928845" />
+    <state width="1876" height="318" key="GridCell.Tab.0.right/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1584051133480" />
+    <state width="1750" height="388" key="GridCell.Tab.0.right/0.0.1792.1120/1792.40.1920.1080@0.0.1792.1120" timestamp="1586264263777" />
+    <state width="1878" height="382" key="GridCell.Tab.0.right/0.0.1792.1120/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586001864743" />
+    <state width="1878" height="373" key="GridCell.Tab.0.right/0.0.1792.1120/1792.63.1920.1057@0.0.1792.1120" timestamp="1586041655807" />
+    <state width="1750" height="399" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1585813581381" />
+    <state width="1878" height="411" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586558061759" />
+    <state width="1748" height="353" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1584286955560" />
+    <state width="1878" height="411" key="GridCell.Tab.0.right/0.23.1792.1033/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586384121192" />
+    <state width="1878" height="373" key="GridCell.Tab.0.right/0.23.1792.1034/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586001335740" />
+    <state width="1878" height="382" key="GridCell.Tab.0.right/0.23.1792.1097/1792.40.1920.1080@1792.40.1920.1080" timestamp="1585996991689" />
+    <state width="1878" height="318" key="GridCell.Tab.0.right/3712.40.1920.1080/1792.40.1920.1080/0.0.1792.1120@1792.40.1920.1080" timestamp="1583743835678" />
+    <state width="1878" height="372" key="GridCell.Tab.1.bottom" timestamp="1586528019516">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1750" height="388" key="GridCell.Tab.1.bottom/0.0.1792.1120/1792.40.1920.1080@0.0.1792.1120" timestamp="1586264263780" />
+    <state width="1878" height="373" key="GridCell.Tab.1.bottom/0.0.1792.1120/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586001470733" />
+    <state width="1878" height="373" key="GridCell.Tab.1.bottom/0.0.1792.1120/1792.63.1920.1057@0.0.1792.1120" timestamp="1586041655811" />
+    <state width="1750" height="389" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1584787022871" />
+    <state width="1878" height="372" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586528019516" />
+    <state width="1878" height="372" key="GridCell.Tab.1.center" timestamp="1586528019516">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1750" height="388" key="GridCell.Tab.1.center/0.0.1792.1120/1792.40.1920.1080@0.0.1792.1120" timestamp="1586264263779" />
+    <state width="1878" height="373" key="GridCell.Tab.1.center/0.0.1792.1120/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586001470730" />
+    <state width="1878" height="373" key="GridCell.Tab.1.center/0.0.1792.1120/1792.63.1920.1057@0.0.1792.1120" timestamp="1586041655810" />
+    <state width="1750" height="389" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1584787022868" />
+    <state width="1878" height="372" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586528019516" />
+    <state width="1878" height="372" key="GridCell.Tab.1.left" timestamp="1586528019515">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1750" height="388" key="GridCell.Tab.1.left/0.0.1792.1120/1792.40.1920.1080@0.0.1792.1120" timestamp="1586264263778" />
+    <state width="1878" height="373" key="GridCell.Tab.1.left/0.0.1792.1120/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586001470728" />
+    <state width="1878" height="373" key="GridCell.Tab.1.left/0.0.1792.1120/1792.63.1920.1057@0.0.1792.1120" timestamp="1586041655809" />
+    <state width="1750" height="389" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1584787022867" />
+    <state width="1878" height="372" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586528019515" />
+    <state width="1878" height="372" key="GridCell.Tab.1.right" timestamp="1586528019516">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1750" height="388" key="GridCell.Tab.1.right/0.0.1792.1120/1792.40.1920.1080@0.0.1792.1120" timestamp="1586264263779" />
+    <state width="1878" height="373" key="GridCell.Tab.1.right/0.0.1792.1120/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586001470731" />
+    <state width="1878" height="373" key="GridCell.Tab.1.right/0.0.1792.1120/1792.63.1920.1057@0.0.1792.1120" timestamp="1586041655810" />
+    <state width="1750" height="389" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1584787022869" />
+    <state width="1878" height="372" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586528019516" />
+    <state x="484" y="310" key="IDE.errors.dialog" timestamp="1583698936520">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="484" y="310" key="IDE.errors.dialog/0.0.1792.1120@0.0.1792.1120" timestamp="1583698936520" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1585760252520">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1585760252520" />
+    <state x="2406" y="418" key="com.intellij.ide.util.TipDialog" timestamp="1586416281012">
+      <screen x="1792" y="40" width="1920" height="1080" />
+    </state>
+    <state x="2406" y="418" key="com.intellij.ide.util.TipDialog/0.0.1792.1120/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586416281012" />
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1585436509684" />
+    <state x="614" y="378" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584215505626" />
+    <state x="573" y="386" key="com.intellij.ide.util.TipDialog/0.23.1792.1037/1792.63.1920.1057@0.23.1792.1037" timestamp="1586264333826" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1584783988973">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1584783988973" />
+    <state x="293" y="255" key="new project wizard" timestamp="1586546652031">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="273" y="264" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1585489072387" />
+    <state x="293" y="255" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1586546652031" />
+    <state x="2393" y="282" width="718" height="652" key="search.everywhere.popup" timestamp="1586034005208">
+      <screen x="1792" y="40" width="1920" height="1080" />
+    </state>
+    <state x="2393" y="282" width="718" height="652" key="search.everywhere.popup/0.0.1792.1120/1792.40.1920.1080@1792.40.1920.1080" timestamp="1586034005208" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1584310535148" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/victor/learn/kotlin/challenges/TimeConversion.kt</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/victor/learn/kotlin/challenges/BirthdayChocolate.kt</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/victor/learn/kotlin/challenges/DivisibleSumPairs.kt</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
